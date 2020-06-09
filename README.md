@@ -1,4 +1,5 @@
 # vulnable_sample
+ツールの使い方を簡単に実践するための簡単な環境．バイト先向けの即席で作ったやつだからCSSとか使ってないけど気にしないで...
 ## use
 ### easy use way
 ```php -S localhost:8080```
