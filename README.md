@@ -4,7 +4,8 @@
 ```php -S localhost:8080```
 ### exploit
 ポートスキャン  
-```nmap -p- localhost
+```
+nmap -p- localhost
 > 8080/tcp closed http-proxy
 ```
 ディレクトリブルートフォース　　
