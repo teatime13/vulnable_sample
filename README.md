@@ -11,7 +11,7 @@ nmap -p- localhost
 ```
 ディレクトリブルートフォース　　
 ```
-dirb http://localhost /usr/share/dirb/wordlists/common.txt
+dirb http://localhost /usr/share/wordlists/dirb/common.txt
 > + http://localhost:8080/command (CODE:200|SIZE:434)                       
 > + http://localhost:8080/robots.txt (CODE:200|SIZE:32)
 ```
