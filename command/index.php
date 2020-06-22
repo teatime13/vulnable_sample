@@ -21,7 +21,7 @@
         </form>
     </div>
 
-    <div>
+    <div class="file_result">
     <?php
         if(isset($_GET["file"])) {
             system("cat files/".$_GET["file"]);
